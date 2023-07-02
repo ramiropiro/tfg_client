@@ -1,16 +1,12 @@
-# tfg_client
+<p align="center"><img src="https://www.on24.com.ar/wp-content/uploads/2016/01/79af8aec56dc576e2fcbe3b2f46516ce-696x447.jpg" width="400" alt="Universidad Siglo 21"></p>
 
-A new Flutter project.
+<p align="center">
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-## Getting Started
+<p align="center">TRABAJO FINAL DE GRADO</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">Estudiante: Ramiro Federico Ramirez.</p>
+<p align="center">Carrera: Licenciatura en Informática</p>
+<p align="center">Legajo: VINF10400</p>
+<p align="center"><b>Módulo de Clientes Flutter.</b></p>
